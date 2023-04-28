@@ -1,5 +1,5 @@
 # odin_recipes
-Simple recipe web page with 'The Odin project'
+Simple recipes web page with 'The Odin project'
 
 This is all part of the learning journey and by the end of this,
 I'll have learned:
